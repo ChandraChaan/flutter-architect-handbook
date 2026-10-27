@@ -25,6 +25,10 @@
 | 9 | [Mobile system design](chapters/09-system-design.md): feeds, chat, payments, wearable health sync, poor networks | 5 | 0 | 2 | 3 |
 | 10 | [Leading as an architect](chapters/10-leadership.md): wrong decisions, reviews, tech debt, disagreements, growing people | 6 | 0 | 2 | 4 |
 
+## Practise with flashcards
+
+[**Flutter Interview Cards**](https://chandrachaan.github.io/flutter-interview-cards/) turns every question here into a flashcard with spaced repetition: answer from memory, reveal the handbook's answer, and the app schedules each question again just before you'd forget it. It's free, open source ([source](https://github.com/ChandraChaan/flutter-interview-cards)) and keeps your progress on your device.
+
 ## How to use it
 
 - **Preparing for an interview?** Read the chapter for your target level, then answer each question aloud **before** reading the answer. Being able to explain a trade-off matters more than knowing the answer.
@@ -33,6 +37,7 @@
 
 ## Related projects
 
+- [flutter-interview-cards](https://github.com/ChandraChaan/flutter-interview-cards): every question in this handbook as a spaced-repetition flashcard
 - [flutter-production-starter](https://github.com/ChandraChaan/flutter-production-starter): a template app that puts chapters 3, 4, 7 and 8 into practice
 - [ble_gatt_parser](https://github.com/ChandraChaan/ble_gatt_parser) and [ble_device_simulator](https://github.com/ChandraChaan/ble_device_simulator): parse and simulate Bluetooth LE health devices (chapter 6)
 - [india_validators](https://github.com/ChandraChaan/india_validators): PAN, GSTIN, Aadhaar, IFSC and UPI validation for Indian apps
